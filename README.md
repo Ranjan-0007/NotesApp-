@@ -29,7 +29,7 @@ Built to showcase clean React patterns, fast interactions, and a stylish Tailwin
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/NotesApp.git
+git clone https://github.com/Ranjan-0007/NotesApp-.git
 ```
 
 2. Go into the project folder
@@ -59,6 +59,12 @@ This app is a great example for:
 - learning React hooks and controlled components
 - practicing state immutability and list updates
 - building a small, polished SPA with Tailwind styling
+
+## 📸 Screenshot
+
+![NotesApp sample screenshot](./Screenshot%202026-05-26%20091507.png)
+
+> A preview of the NotesApp interface showing the note form and recent notes cards.
 
 ## 💡 Want to extend it?
 
